@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<comig>
+	<head>
+		<formatversion>1</formatversion>
+	</head>
+	<body>
+		<name>Example</name>
+		<outputpath>d:\development\cozumevi\comig</outputpath>
+		<connectionstring>DSN=cozum1.czmweb</connectionstring>
+		<tablecount>1</tablecount>
+		<tables>
+			<table>
+				<tablename>Table1</tablename>
+				<canInsert>1</canInsert>
+				<canUpdate>1</canUpdate>
+				<canDelete>1</canDelete>
+				<fieldCount>1</fieldCount>
+				<fieds>
+					<field>
+						<parenttable>Table1</parenttable>
+						<fieldname>Field1</fieldname>
+						<type>3</type>
+						<iskey>1</iskey>
+						<isname>1</isname>
+					</field>
+				</fieds>
+			</table>
+		</tables>
+	</body>
+</comig>

@@ -1,0 +1,7 @@
+obj\Debug\Comig.exe
+obj\Debug\Comig.pdb
+bin\Debug\Comig.exe
+bin\Debug\Comig.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Comig.frmMain.resources
+obj\Debug\Comig.csproj.GenerateResource.Cache
